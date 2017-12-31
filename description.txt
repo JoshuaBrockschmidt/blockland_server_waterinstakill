@@ -1,0 +1,3 @@
+Title: Water Instant Kill
+Author: SadBlobfish (6835)
+Players die and vehicles explode when they enter water. Can be turned on and off via Blockland Glass preferences.
